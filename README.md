@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anurag-chakravarty-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag chakravarty" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag__chakravarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag__chakravarty" height="30" width="40" /></a>
+<a href="https://x.com/devilxgod21" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="anurag__chakravarty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
