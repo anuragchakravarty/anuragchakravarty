@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchakravarty&" alt="anuragchakravarty" /></p>
 <h3 align="left"> 🏆 Github Trophies:</h3>
-<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty" alt="anuragchakravarty" /></p>
+<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty&theme=onedark&column=4&row=2" alt="anuragchakravarty" /></p>
 
 
 
