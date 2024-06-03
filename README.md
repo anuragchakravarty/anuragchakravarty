@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Chakravarty</h1>
-<h3 align="center">A passionate Data Science student</h3>
+<h3 align="center"> 🔭 A passionate Data Science student</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchakravarty" /> </p>
 
@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragchakravarty&show_icons=true&locale=en" alt="anuragchakravarty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchakravarty&" alt="anuragchakravarty" /></p>
+
+
+
+
