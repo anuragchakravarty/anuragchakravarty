@@ -26,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragchakravarty&show_icons=true&locale=en" alt="anuragchakravarty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchakravarty&" alt="anuragchakravarty" /></p>
+<h3 align="left">Github Trophies:</h3>
+<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty" alt="anuragchakravarty" /></p>
 
 
 
