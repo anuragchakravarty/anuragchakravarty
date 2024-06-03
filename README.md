@@ -27,7 +27,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchakravarty&" alt="anuragchakravarty" /></p>
 <h3 align="left"> 🏆 Github Trophies:</h3>
-<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty&theme=onedark" alt="anuragchakravarty" /></p>
+<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty&theme=radical" alt="anuragchakravarty" /></p> <br><br><br><br><br>
+
+### ✨ Dev Quote ✨
+> "It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."  
+> - Steve McConnell
+
+
 
 
 
