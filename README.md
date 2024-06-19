@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchakravarty" /> </p>
 
-- 👨‍💻 All of my projects are available at :- [https://github.com/anuragchakravarty?tab=repositories](https://github.com/anuragchakravarty?tab=repositories)
+- 👨‍💻 Anuragfolio :- [https://github.com/anuragchakravarty?tab=repositories](https://anuragchakravarty.github.io/)
 
 - ⚡ Fun fact : **I'm funny😂**
 
