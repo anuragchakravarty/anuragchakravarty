@@ -1,40 +1,86 @@
+# Hi 👋, I'm Anurag Chakravarty
 
-<h1 align="center">Hi 👋, I'm Anurag Chakravarty</h1>
-<h2 align="center"> Computer Science Graduate from LPU, Punjab </h2> 
-<h3 align="center"> 🔭 A passionate Data Science student</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchakravarty" /> </p>
+### Computer Science Graduate | Aspiring Data Analyst | Python & SQL
 
-- 👨‍💻 My piece of art 😜 :- [Anuragfolio](https://anuragchakravarty.github.io/)
+<img align="right" alt="Boy coding at a computer" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-- ⚡ Fun fact : **I'm funny😂**
+I'm a Computer Science graduate from Lovely Professional University, interested in transforming raw data into meaningful insights through data analysis, visualization, and business intelligence.
 
-<h3 align="left">Connect with me:</h3>
+- 📊 Interested in **Data Analytics, Business Intelligence, and Data Science**
+- 🐍 Working with **Python, SQL, Excel, and Power BI**
+- 📈 Building projects focused on data cleaning, exploratory data analysis, and interactive dashboards
+- 🌐 Portfolio: [Anuragfolio](https://anuragchakravarty.github.io/)
+- 💼 LinkedIn: [Anurag Chakravarty](https://www.linkedin.com/in/anurag-chakravarty-r/)
+
 <p align="left">
-<a href="https://www.linkedin.com/in/anurag-chakravarty-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag chakravarty" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/anuragchakravar2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJUggt1jqA1FFMwuD0-Vtcx5Qo29hKkBD8g&s" alt="anurag__chakravarty" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag__chakravarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag__chakravarty" height="30" width="40" /></a>
-<a href="https://x.com/devilxgod21" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="anurag__chakravarty" height="30" width="40" /></a>
-
+  <img src="https://komarev.com/ghpvc/?username=anuragchakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="R" width="40" height="40"/> </a></p>
+<br clear="right"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragchakravarty&show_icons=true&locale=en&layout=compact" alt="anuragchakravarty" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragchakravarty&show_icons=true&locale=en" alt="anuragchakravarty" /></p>
+## 🛠️ Technical Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchakravarty&" alt="anuragchakravarty" /></p>
-<h3 align="left"> 🏆 Github Trophies:</h3>
-<p><img align ="left" src="https://github-profile-trophy.vercel.app/?username=anuragchakravarty&theme=radical" alt="anuragchakravarty" /></p> <br><br><br><br><br>
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="SQL"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/></a>
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" width="42" height="42" alt="Microsoft Excel"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/></a>
+</p>
 
-### ✨ Dev Quote ✨
-> "It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."  
-> - Steve McConnell
+**Analytics:** Data Cleaning · Exploratory Data Analysis · Trend Analysis · Data Visualization · Dashboard Development
 
+**Tools:** Excel · Power BI · SQL · Python · Pandas · NumPy · Matplotlib · Seaborn · Git · GitHub
 
+---
 
+## 🚀 Featured Projects
 
+### 📊 [Coffee Sales Analysis Dashboard](https://github.com/anuragchakravarty/Coffee-Sales-Dashboard-Excel)
 
+**Excel | XLOOKUP | INDEX-MATCH | PivotTables | PivotCharts**
 
+- Analyzed coffee sales across products, customers, countries, and time periods.
+- Combined multiple datasets and built an interactive dashboard using PivotTables, PivotCharts, and slicers.
+
+### 📈 [Stock Analysis App](https://github.com/anuragchakravarty/Stock_analysis_app)
+
+**Python | Pandas | NumPy | Streamlit | Plotly | Financial APIs**
+
+- Developed an interactive application for exploring stock prices, financial statements, and market news.
+- Integrated multiple financial data sources to present market information in one interface.
+
+### 🛍️ Customer Shopping Behavior Analysis
+
+**SQL | Python | Pandas | Power BI**
+
+- Analyzed customer shopping behavior and purchasing patterns using SQL and Python.
+- Developed an interactive Power BI dashboard to explore customer segments and key metrics.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragchakravarty&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchakravarty&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anurag-chakravarty-r/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/anuragchakravarty"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="mailto:anuragchakravarty4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+> “It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.”
+>
+> — Steve McConnell
