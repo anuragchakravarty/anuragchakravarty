@@ -10,7 +10,7 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
 - 🐍 Working with **Python, SQL, Excel, and Power BI**
 - 📈 Building projects focused on data cleaning, exploratory data analysis, and interactive dashboards
 - 🌐 Portfolio: [Anuragfolio](https://anuragchakravarty.github.io/)
-- 💼 LinkedIn: [Anurag Chakravarty](https://www.linkedin.com/in/anurag-chakravarty-r/)
+- 💼 LinkedIn: [Anurag Chakravarty](https://www.linkedin.com/in/anurag-chakravarty/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anuragchakravarty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
