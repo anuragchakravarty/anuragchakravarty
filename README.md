@@ -46,7 +46,7 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
 **Excel | XLOOKUP | INDEX-MATCH | PivotTables | PivotCharts**
 
 - Analyzed coffee sales across products, customers, countries, and time periods.
-- Combined multiple datasets and built an interactive dashboard using PivotTables, PivotCharts, and slicers.
+- Combined multiple datasets and built an interactive dashboard.
 
 ### 📈 [Stock Analysis App](https://stockanalysisapp.streamlit.app/)
 
