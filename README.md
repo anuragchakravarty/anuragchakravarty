@@ -48,7 +48,7 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
 - Analyzed coffee sales across products, customers, countries, and time periods.
 - Combined multiple datasets and built an interactive dashboard using PivotTables, PivotCharts, and slicers.
 
-### 📈 [Stock Analysis App](https://github.com/anuragchakravarty/Stock_analysis_app)
+### 📈 [Stock Analysis App](https://stockanalysisapp.streamlit.app/)
 
 **Python | Pandas | NumPy | Streamlit | Plotly | Financial APIs**
 
