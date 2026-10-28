@@ -30,7 +30,7 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" width="42" height="42" alt="Microsoft Excel"/></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/></a>
+  <a href="https://github.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0m2XETqEvIbVmv1rXkjDb1N-tRlSlInwlCcwfGkpeoCmKeU90meC6vo&s=10" width="42" height="42" alt="GitHub"/></a>
 </p>
 
 **Analytics:** Data Cleaning · Exploratory Data Analysis · Trend Analysis · Data Visualization · Dashboard Development
