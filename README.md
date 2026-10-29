@@ -67,9 +67,13 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragchakravarty&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchakravarty&layout=compact&hide_border=true&theme=default" height="165" alt="Most used languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=anuragchakravarty&show_icons=true&theme=github_dark" alt="GitHub Statistics" />
 </p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuragchakravarty&layout=compact&langs_count=8&theme=github_dark" alt="Most Used Languages" />
+</p>
+
 
 ---
 
