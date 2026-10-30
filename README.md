@@ -55,7 +55,7 @@ I'm a Computer Science graduate from Lovely Professional University, interested 
 - Developed an interactive application for exploring stock prices, financial statements, and market news.
 - Integrated multiple financial data sources to present market information in one interface.
 
-### 🛍️ Customer Shopping Behavior Analysis
+### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/anuragchakravarty/Customer-Shopping-Behavior-Analysis)
 
 **SQL | Python | Pandas | Power BI**
 
